@@ -7,6 +7,7 @@ MainWindow::MainWindow(QWidget *parent)
 {
     ui->setupUi(this);
     // commentaire inutile
+    // Again
 }
 
 MainWindow::~MainWindow()
